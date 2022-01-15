@@ -3,7 +3,6 @@ All information is source from the upstream Linux Kernel
 
 ## Current Linux Memory barries
 
-
 ==========
 DISCLAIMER
 ==========

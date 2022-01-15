@@ -2981,3 +2981,6 @@ Intel Itanium Architecture Software Developer's Manual: Volume 1:
 	Section 4.4: Memory Access
 
 ------------------------------------------------------------------------------------------------
+
+## For further documentation over compiling or about internal kernel option, click on the following link to go to the kernel documentation
+[Internal Kernel Documentation](https://gitlab.com/morales-research-corporation/os-development/kernel/-/tree/stable/Documentation)

@@ -1,5 +1,6 @@
 
-## Welcome to Morales Research Corporation Documentation page for all projects
+## Welcome to Morales Research Corporation Documentation
+for all projects on Gitlab and Github
 Powered by Gitlab Pages and Gitbook
 
 ## GitLab User or Group Pages

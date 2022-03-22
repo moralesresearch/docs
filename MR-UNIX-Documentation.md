@@ -31,3 +31,6 @@ Morales Research Unix is an operating system based on FreeBSD (FuryBSD), 4.4BSD,
 
 FreeBSD Source Repository:
 https://github.com/freebsd/freebsd-src
+
+## About the Open OS X Installer
+The OS X Installer (also known as the FreeBSD Installer) is a GNUstep .app bundle that installs the operating system for desktops and workstation, along with providing useful information via the Installer Log (shown on a terminal window)

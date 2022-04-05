@@ -34,3 +34,8 @@ https://github.com/freebsd/freebsd-src
 
 ## About the Open OS X Installer
 The OS X Installer (also known as the FreeBSD Installer) is a GNUstep .app bundle that installs the operating system for desktops and workstation, along with providing useful information via the Installer Log (shown on a terminal window)
+
+Source code for Open OS X - https://github.com/moralesresearch/Utilities/tree/master/Utilities/Install%20FreeBSD.app
+
+
+Source code for Open OS X Server - https://github.com/moralesresearch/Utilities/tree/server-master/Utilities/Install%20FreeBSD.app

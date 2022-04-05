@@ -1,2 +1,2 @@
-# Documentation on Morales ResearcH Inc. Linux
+# Documentation on Morales Research Inc. Linux
 Placeholder

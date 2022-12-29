@@ -1,5 +1,5 @@
-# Documentation for Morales Research Unix (or also know as Open OS X)
-Morales Research Unix is an operating system based on FreeBSD (FuryBSD), 4.4BSD, MacOS components, and helloSystem.
+# Documentation for the Sun operating system (or formerly known as Open OS X)
+Sun/OS is an operating system based on FreeBSD (FuryBSD), 4.4BSD, MacOS components, and helloSystem.
 
 ## Source structure of FreeBSD
 
@@ -32,7 +32,7 @@ Morales Research Unix is an operating system based on FreeBSD (FuryBSD), 4.4BSD,
 FreeBSD Source Repository:
 https://github.com/freebsd/freebsd-src
 
-## About the Open OS X Installer
+## About the Sun/OS v6.1 Installer
 The OS X Installer (also known as the FreeBSD Installer) is a GNUstep .app bundle that installs the operating system for desktops and workstation, along with providing useful information via the Installer Log (shown on a terminal window)
 
 Source code for Open OS X - https://github.com/moralesresearch/Utilities/tree/master/Utilities/Install%20FreeBSD.app

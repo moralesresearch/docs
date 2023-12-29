@@ -3,3 +3,6 @@
 /book.pdf
 /book.mobi
 /book.epub
+package-lock.json
+node_modules/
+.DS_Store

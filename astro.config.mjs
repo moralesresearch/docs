@@ -12,14 +12,20 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Welcome',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Getting Started', link: '/guides/gettingstarted/' },
+						{ label: 'Getting Started', link: '/welcome/gettingstarted/' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Ferret ML',
+					items: [
+						{label: 'Getting Started on Ferret ML', link: '/ferret/ferretml-gs/'},
+					],
+				},
+				{
+					label: 'References',
 					autogenerate: { directory: 'reference' },
 				},
 			],

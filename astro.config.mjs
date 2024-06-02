@@ -25,6 +25,12 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'PDF Compiler',
+					items: [
+						{label: 'Getting Started on PDF Compiler', link: '/pdfcompiler/pdfcompiler-gs/'},
+					],
+				},
+				{
 					label: 'References',
 					autogenerate: { directory: 'reference' },
 				},
